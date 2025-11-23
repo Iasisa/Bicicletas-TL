@@ -4,7 +4,7 @@ Pipeline ETL construido con Apache Airflow para analizar patrones de uso de bici
 
 ## 📋 Justificación del Proyecto
 
-Los sistemas de bicicletas compartidas representan una alternativa de movilidad sostenible que reduce la congestión vehicular, las emisiones de CO2 y promueve la salud pública en áreas urbanas. El análisis de patrones de uso de Capital Bikeshare en Washington D.C., considerando variables meteorológicas y temporales, permite optimizar la distribución de bicicletas en estaciones, predecir demanda en horas pico y mejorar la planificación de mantenimiento preventivo. Los beneficiarios directos incluyen autoridades de transporte urbano que pueden asignar recursos eficientemente, ciudadanos que acceden a transporte limpio y confiable, y municipios que buscan reducir la huella de carbono mediante políticas de movilidad verde.
+Los sistemas de bicicletas compartidas representan una alternativa de movilidad sostenible que reduce la congestión vehicular, las emisiones de CO2 y promueve la salud pública en áreas urbanas. El análisis de patrones de uso de Capital Bikeshare en Washington D.C., considerando variables meteorológicas y temporales, permite optimizar la gestión de la flota identificando horas pico de demanda y mejorar la planificación de mantenimiento preventivo en temporadas de baja demanda. Los beneficiarios directos incluyen autoridades de transporte urbano que pueden dimensionar recursos según patrones diarios y estacionales, ciudadanos que acceden a transporte limpio y confiable, y municipios que buscan reducir la huella de carbono mediante políticas de movilidad verde. Este dataset facilita decisiones basadas en datos para promover sistemas de transporte más sostenibles y accesibles.
 
 ## 🏗️ Arquitectura del Pipeline
 
@@ -375,10 +375,6 @@ Ver capturas en `dashboard/screenshots/`
 - **Temporada alta:** Otoño (32%) y Verano (28%)
 - **Uso laboral:** Días entre semana tienen 2x más rentas que fines de semana
 
-## 🎯 Justificación del Proyecto
-
-Los sistemas de bicicletas compartidas representan una alternativa de movilidad sostenible que reduce la congestión vehicular, las emisiones de CO2 y promueve la salud pública en áreas urbanas. El análisis de patrones de uso de Capital Bikeshare en Washington D.C., considerando variables meteorológicas y temporales, permite optimizar la gestión de la flota identificando horas pico de demanda y mejorar la planificación de mantenimiento preventivo en temporadas de baja demanda. Los beneficiarios directos incluyen autoridades de transporte urbano que pueden dimensionar recursos según patrones diarios y estacionales, ciudadanos que acceden a transporte limpio y confiable, y municipios que buscan reducir la huella de carbono mediante políticas de movilidad verde. Este dataset facilita decisiones basadas en datos para promover sistemas de transporte más sostenibles y accesibles.
----
 
 ## 📚 Información del Dataset
 
