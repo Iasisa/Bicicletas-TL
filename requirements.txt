@@ -1,0 +1,9 @@
+# Apache Airflow ya viene instalado en la imagen Docker
+# Solo listamos las dependencias adicionales del proyecto
+
+# Data processing
+pandas>=2.1.0
+pyarrow>=14.0.0  # Para formato Parquet
+
+# Opcional: para análisis adicionales
+numpy>=1.24.0
